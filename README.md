@@ -13,4 +13,4 @@ Build an AI agent that takes a product idea and designs the full system architec
 - [x] Git & GitHub ✅
 
 ## 👩‍💻 About
-Third year CS student passionate about AI Engineering and building real-world AI applications.
+Third year AI student passionate about AI Engineering and building real-world AI applications.
